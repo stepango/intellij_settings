@@ -12,5 +12,7 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.xml</mask>
+    <mask>*.kt</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>

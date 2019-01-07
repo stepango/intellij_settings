@@ -1,5 +1,6 @@
 <application>
   <component name="GradleExperimentalSettings">
-    <option name="USE_SINGLE_VARIANT_SYNC" value="false" />
+    <option name="SKIP_SOURCE_GEN_ON_PROJECT_SYNC" value="true" />
+    <option name="MAX_MODULE_COUNT_FOR_SOURCE_GEN" value="1" />
   </component>
 </application>
